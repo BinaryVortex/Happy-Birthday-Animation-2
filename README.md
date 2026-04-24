@@ -1,6 +1,5 @@
 # Happy Birthday Animation 2
 
-![Screenshot](Screenshot 2024-07-03 083429.png)
 
 A small, lightweight Happy Birthday animation built with HTML, CSS and JavaScript. This repository contains a self-contained demo you can open in any modern browser.
 
